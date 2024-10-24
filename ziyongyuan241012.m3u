@@ -77,6 +77,14 @@ http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342
 http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="电影频道",CCTV-6 电影
 http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV淘电影
+http://111.199.232.88:18888/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="北京IPTV淘剧场" tvg-name="北京IPTV淘剧场" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV淘剧场
+http://111.199.232.88:18888/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影&4K&纪实",北京IPTV4K超清
+http://111.199.232.88:18888/rtp/239.3.1.249:8001
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://epg.iill.top/logo/爱上4K.png" group-title="电影&4K&纪实",爱上4K·UHD
+http://111.199.232.88:18888/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-id="北京IPTV淘电影" tvg-name="北京IPTV淘电影" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV淘电影
 http://115.171.58.66:4022/udp/225.1.8.38:8002
 #EXTINF:-1 tvg-id="北京IPTV4K超清" tvg-name="北京IPTV4K超清" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="电影频道",北京IPTV4K超清
